@@ -1,1 +1,2 @@
-# linkedin-web-scarping-
+# linkedin-web-scarping
+selenium web scarpying scripts
